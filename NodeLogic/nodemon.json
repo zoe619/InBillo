@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "vanila",
+        "MONGO_PASSWORD": "piYooTmkiKD7vVks",
+        "MONGO_DB": "node-shop"
+    }
+}
